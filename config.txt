@@ -1,0 +1,4 @@
+
+vless://282b9908-551a-44c2-97ba-3f8f293e06c4@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@oPeTa_team
+vless://292dd535-7ae8-4129-c110-6e6507d5a089@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#@oPeTa_team
+vless://eb1ebf12-3c52-4f26-8242-6c98887b34eb@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#@oPeTa_team
